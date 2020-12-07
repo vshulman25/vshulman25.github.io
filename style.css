@@ -3,26 +3,33 @@ body {
     color: gray;
 }
 
-.section-title {
-    font-style: italic
+/*--------------------------------------------------------------
+portfolio page styling section for carousel items
+--------------------------------------------------------------*/
+
+.carousel-inner {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    align-content: center;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    color: #000;
-    font-family: "Montserrat", Arial, sans-serif;
-    font-weight: 700;
-    margin: 0 0 30px 0;
+.carousel-item-active,
+.carousel-item {
+    border:white;
+    border-width: 30px;
+    border-style: solid;
+}
+
+
+/*--------------------------------------------------------------
+contact page styling section (button included
+--------------------------------------------------------------*/
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #fh5co-main {
-
-    -webkit-transition: 0.5s;
-    -o-transition: 0.5s;
     transition: 0.5s;
 }
 
@@ -53,7 +60,7 @@ h6 {
 }
 
 .btn-primary {
-    background:rgb(252, 167, 252) !important;
+    background: rgb(252, 167, 252) !important;
     color: #fff !important;
     border: 2px solid rgb(252, 167, 252) !important;
     border-radius: 0px !important;
