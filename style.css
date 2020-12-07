@@ -5,13 +5,15 @@ body {
 /*--------------------------------------------------------------
 about me page styling section - home page
 --------------------------------------------------------------*/
+
 h2 {
     font-family: 'Pacifico', cursive;
+    color: rgb(178, 178, 233);
 
 }
 
 .section-title {
-    color: black;
+    color: gray;
 }
 
 /*--------------------------------------------------------------
@@ -32,12 +34,12 @@ portfolio page styling section for carousel items
     border-style: solid;
 }
 
-
 /*--------------------------------------------------------------
 contact page styling section (button included
 --------------------------------------------------------------*/
 h1 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Pacifico', cursive;
+    color: rgb(165, 165, 233);
 }
 
 #fh5co-main {
