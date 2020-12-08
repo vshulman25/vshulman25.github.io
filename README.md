@@ -1,11 +1,10 @@
-# 2: Code Refactor
+# 2: Responsive Portfolio
 
-This is my first homework assignment, I refactored the code I was initially given and presented the client with a cleaner version for both the HTML file and CSS file. 
-
+For this assignment, I was tasked with building my initial portfolio using HTML, CSS and Bootstrap. This portfolio is the start of my career in web development - I am eager and excited to improve this portfolio in the upcoming months.
 ---
 ## Description 
 
-The purpose of this assignment is to provide a codebase that follows accessibility standards making the site more optimized for search engines. Throughout the file you will find semantic html elements that follow in a logical structure. I have also included my notes on both the HTML and CSS files. Other elements of this assignment included organizing the CSS file, ensuring all links loaded with no errors and ensuring that the website was accessible for all. 
+The purpose of this assignment was to build a responsive webpage featuring the with the following files - index.html, portfolio.html, contact.html - styled with a CSS style sheet and with working bootstrap elements. Per the instructions, I included a navigation bar that stays on all pages, with working links and toggles properly depending on screen size. In addition to the layout being responsive, all images included respond properly and when reduced to a small enough screen, the navigation bar will collapse into a hamburger style. I have included personal touches throughout the webpage including some facts about myself and a bit of my favorite color. 
 
 ---
 ## Installation
@@ -16,13 +15,13 @@ Use preferred code reader and browser to view HTML, CSS & README files.
 ---
 ## Preview 
 
-![Code Refactor Demo](./assets/images/01-html-css-git-homework-demo.png)
+![Responsive Portfolio](./assets/images/01-html-css-git-homework-demo.png)
 
 ---
 
 ## Live Link
 
-(https://vshulman25.github.io/Homework1/)
+(https://vshulman25.github.io/)
 
 ---
 ## Credits

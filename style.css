@@ -40,6 +40,10 @@ portfolio page styling section for carousel items
     width: 50%;
 }
 
+.carousel-control {
+    color: black;
+}
+
 /*--------------------------------------------------------------
 contact page styling section (button included
 --------------------------------------------------------------*/
