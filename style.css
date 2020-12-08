@@ -5,6 +5,11 @@ body {
 /*--------------------------------------------------------------
 about me page styling section - home page
 --------------------------------------------------------------*/
+.row {
+    border: white;
+    border-style: solid;
+    border-width: 15px;
+}
 
 h2 {
     font-family: 'Pacifico', cursive;
