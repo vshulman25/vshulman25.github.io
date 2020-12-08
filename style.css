@@ -78,8 +78,8 @@ h1 {
 }
 
 .btn-primary {
-    background: rgb(252, 167, 252) !important;
+    background:rgb(165, 165, 233);!important;
     color: #fff !important;
-    border: 2px solid rgb(252, 167, 252) !important;
+    border: 2px solid rgb(165, 165, 233); !important;
     border-radius: 0px !important;
 }
