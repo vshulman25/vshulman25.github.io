@@ -19,7 +19,7 @@ Use preferred code reader and browser to view HTML, CSS & README files.
 ## Preview 
 
 ![Responsive Portfolio - Home/Index ](./assets/homeshot.jpeg)
-![Responsive Portfolio - Contact ](./assets/contactshot.jpeg) 
+![Responsive Portfolio - Contact ](./assets/contact.jpeg) 
 ![Responsive Portfolio - Portfolio ](./assets/portfolioshot.jpeg) 
 
 ---
